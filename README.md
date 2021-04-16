@@ -3,7 +3,7 @@
 ___________________________________________________________
 
 /!\ Help could / will be needed, check issue to help us /!\
-                   (Game testing ...)
+( New functionallity, Game testing, ... )
 ___________________________________________________________
 
 
