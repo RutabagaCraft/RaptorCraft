@@ -9,7 +9,8 @@ ___________________________________________________________
 
 WIP Internal : 
 - [ ] Wallet - WIP
-
+- [ ] Info Book - WIP
+ 
 WIP Game : 
 - [ ] Dice - WIP
 
