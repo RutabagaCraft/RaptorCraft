@@ -13,7 +13,7 @@ WIP Internal :
  
 WIP Game : 
 - [ ] Dice - WIP
-
+- [ ] Lottery - WIP
 
 Done :
 Wait ! Nothing ??
