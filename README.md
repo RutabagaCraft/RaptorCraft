@@ -14,6 +14,7 @@ WIP Internal :
 WIP Game : 
 - [ ] Dice - WIP
 - [ ] Lottery - WIP
+- [ ] 1VS1 - WIP
 
 Done :
 Wait ! Nothing ??
