@@ -8,13 +8,35 @@ ___________________________________________________________
 
 
 WIP Internal : 
-- [ ] Wallet - WIP
+- [ ] RTM Wallet - WIP
+- [ ] Rapto Coins (Custom InGame Money)
 - [ ] Info Book - WIP
+- [ ] First Join Message - WIP
+- [ ] HUB Items / Gadgets
+- [ ] Trading System - WIP
  
 WIP Game : 
 - [ ] Dice - WIP
 - [ ] Lottery - WIP
-- [ ] 1VS1 - WIP
+- [ ] 1VS1 - WIP (Do not use yet)
+- [ ] Your own Raft - WIP
+- [ ] KoTh - WIP
+- [ ] BlockPart - WIP
+- [ ] PlotWorld - Get your House - WIP
+- [X] The Dropper
+- [ ] StaySafe - WIP
+
+
+WIP Adventure Part :
+- 2 World added
+- Custom Mechanic on **Minning** and **Fishing**, with leveling
+
+Market World
+- Items
+- Block
+- Buy Ranks
+- Hidden things ;)
 
 Done :
-Wait ! Nothing ??
+
+_Wait ! Nothing ??_
