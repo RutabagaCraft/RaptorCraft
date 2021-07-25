@@ -1,4 +1,5 @@
 # RaptorCraft - Minecraft Bedrock Server
+(This page was updated the 25 July 2021)
 
 ___________________________________________________________
 
@@ -6,14 +7,28 @@ ___________________________________________________________
 ( New functionallity, Game testing, ... )
 ___________________________________________________________
 
+World Generation :
+- [ ] Custom Adventure World Generator - WIP
+- [ ] Custom Dungeon World Generator
+- Custom 'Special World' 
+- [ ] Planet - WIP
+- [ ] Bubble - WIP
 
 WIP Internal : 
-- [ ] RTM Wallet - WIP
-- [ ] Rapto Coins (Custom InGame Money)
+- RTM Wallet - WIP
+- [X] Send / Receive
+- [X] Ingame Conversion to Coin
+- [X] Logging of transactions (+WEB for each players)
+- [X] Ingame OTA to WEB Access
+- [ ] Test and validation
+
+- Rapto Coins (Custom InGame Money)
+- [X] Availaible inGame + Receipe
+- [ ] Apply to item / Shop
 - [ ] Info Book - WIP
 - [ ] First Join Message - WIP
-- [ ] HUB Items / Gadgets
-- [ ] Trading System - WIP
+- [ ] HUB Items / Gadgets WIP
+- [ ] Trading System - Test Needed
  
 WIP Game : 
 - [ ] Dice - WIP
@@ -21,14 +36,14 @@ WIP Game :
 - [ ] 1VS1 - WIP (Do not use yet)
 - [ ] Your own Raft - WIP
 - [ ] KoTh - WIP
-- [ ] BlockPart - WIP
-- [ ] PlotWorld - Get your House - WIP
+- [ ] BlockParty - WIP
+- [ ] PlotWorld - Get your own House - WIP
 - [X] The Dropper
 - [ ] StaySafe - WIP
 
 
 WIP Adventure Part :
-- 2 World added
+- 2 World added (Mine / Forest)
 - Custom Mechanic on **Minning** and **Fishing**, with leveling
 
 Market World
