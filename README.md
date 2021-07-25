@@ -39,6 +39,8 @@ WIP Game :
 - [ ] BlockParty - WIP
 - [ ] PlotWorld - Get your own House - WIP
 - [X] The Dropper
+- - ScoreBoard
+- - Hidden Eggs (WIP)
 - [ ] StaySafe - WIP
 
 
